@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-ad6wmi.evostoto99mxn.lat/sitemap.xml
